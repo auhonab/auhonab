@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on i don't know yet
-- 📫 How to reach me auhona_03#1611 - discord
+- 📫 How to reach me holdingon#1611 - discord
 
 <!---
 auhonab/auhonab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

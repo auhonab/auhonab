@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @auhonab
-- 👀 I’m interested in learning coding
+- 👀 I’m software engineering student (big data)
 - 🌱 I’m currently learning python
 - 📫 How to reach bejeweled_03
 

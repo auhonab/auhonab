@@ -63,7 +63,7 @@ Hi there, I'm **Auhona**!
 
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=auhonab)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=auhonab&theme=monokai&hide_border=false)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=auhonab&theme=onedark&no-frame=false&no-bg=false&margin-w=4)

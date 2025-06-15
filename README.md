@@ -68,10 +68,14 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=auhonab&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+## Profile Views
+![](https://komarev.com/ghpvc/?auhonab=your-github-username&color=grey)
+
 ## 😉 Happy Coding!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auhonab/auhonab/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auhonab/auhonab/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/auhonab/auhonab/output/github-snake.svg" />
 </picture>
+
 ---

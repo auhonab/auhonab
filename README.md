@@ -1,5 +1,5 @@
-# 👋 About Me
-Hi there, I'm **Auhona**!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7CA16FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Auhona+%F0%9F%91%8B)]()
+
 - 🧠 **Currently pursuing** B.Eng in Computer Science & Engineering.  
 - 🎓 **Studying at** York University, Toronto, Canada.  
 - 🤖 **Researching** how to bridge natural intelligence with sensory-motor learning in robotics.  

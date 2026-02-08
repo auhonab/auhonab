@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7CA16FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Auhona+%F0%9F%91%8B)]()
 
-- 🧠 **Currently pursuing** B.Eng in Computer Science & Engineering.  
-- 🎓 **Studying at** York University, Toronto, Canada.  
-- 🤖 **Researching** how to bridge natural intelligence with sensory-motor learning in robotics.  
-- 💡 **Built projects** like AI-powered interview tools and predictive analytics for finance.  
-- 🪄 **Currently creating** Tulip, a sleek web app for everyday life hacks and resources.  
-- 🚀 **For me**, coding is the bridge between logic and creativity — it’s how I bring ideas to life.
-
+- 🧠 Currently pursuing Hons. B.Eng Computer Engineering.  
+- 🎓 Junior Year at York University, Toronto, Canada.  
+- 👀 I’m interested in AI, Machine Learning, and Full Stack Development. 
+- 🌱 I’m currently learning advanced AI applications and building web apps with Next.js & React.
+- 👩🏻 Pronouns: She/Her
+- ⚡ Fun fact: I have a playlist for every mood.
 
 
 
@@ -65,8 +64,8 @@
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=auhonab&theme=monokai&hide_border=false)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=auhonab&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+## Quote of the day:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 😉 Happy Coding!
 <picture>

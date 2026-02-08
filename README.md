@@ -65,7 +65,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=auhonab&theme=monokai&hide_border=false)
 
 ## Quote of the day:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=Life%20is%20a%20collection%20of%20stories;%20make%20yours%20worth%20telling.)
 
 ## 😉 Happy Coding!
 <picture>

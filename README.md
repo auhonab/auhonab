@@ -1,20 +1,46 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7CA16FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Auhona+%F0%9F%91%8B)]()
+<div align="center">
 
-- 🧠 Currently pursuing Hons. B.Eng Computer Engineering.  
-- 🎓 Junior Year at York University, Toronto, Canada.  
-- 👀 I’m interested in AI, Machine Learning, and Full Stack Development. 
-- 🌱 I’m currently learning advanced AI applications and building web apps with Next.js & React.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F7CA16&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Auhona+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Researcher+%7C+Builder;%22Until+death%2C+all+defeat+is+psychological.%22)](https://git.io/typing-svg)
+
+</div>
+
+### 🧠 About Me
+
+- 🎓 Specialized Honours B.Eng, Computer Engineering @ **York University, Lassonde School of Engineering** — Class of 2027
+- 💼 ML/GenAI experience across **Ericsson AB** (RAG pipelines, FastAPI, LLMs) and **Bajaj Finserv** (credit risk modeling on 350K+ records, 87% accuracy)
+- 🏛️ Co-President, **York University AI & Data Society** — grew from Team Lead → VP → Co-President
+- 📝 Published researcher — IJRASET 2024, hierarchical Conv-LSTM + LLM stock forecasting
+- 🏆 Active hackathon competitor — ElleHacks, UofTHacks, Hack The Six, GirlScript Summer of Code
+- 🌱 Currently deepening my work in applied ML, explainable AI, and full-stack systems
 - 👩🏻 Pronouns: She/Her
-- ⚡ Fun fact: I have a playlist for every mood.
 
+---
 
+### 💼 Experience & Leadership
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/auhona_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auhona-basu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:auhonabasu03@gmail.com) 
+| Role | Organization | Focus |
+|---|---|---|
+| ML/GenAI Intern | Ericsson AB | RAG pipelines, FastAPI, LLM integration |
+| Data Science Intern | Bajaj Finserv | Credit risk modeling, 350K+ record pipeline |
+| Co-President | York University AI & Data Society | Community strategy, technical programming |
+| Year Rep | Women in Science and Engineering (WISE) | Peer mentorship, outreach |
+| Admin | York Science Collective | Community management |
+| Student Ambassador | IBM Z | Mainframe & enterprise tech advocacy |
+| Student Mentee [SwM] | Dell Technologies | Career development program |
 
+---
 
-## 💻 Tech Stack:
-### Languages
+### 🚀 Featured Projects
+
+- **TrustScript-XAI** — Hybrid ViT + GAT deep learning system for forensic handwriting classification, with SHAP & GNNExplainer explainability (demoed at Google Toronto HQ)
+- **PaperIQ** — Hackathon project (build details evolving)
+- **Stock Forecasting Research** — Hierarchical Conv-LSTM + LLM architecture, published in IJRASET 2024
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,8 +51,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-### Frameworks
+**Frameworks**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -41,13 +66,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
-### Databases
+**Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-### Tools
+**Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,18 +84,20 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+---
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=auhonab&theme=monokai&hide_border=false)
+### 🌐 Connect With Me
 
-## Quote of the day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=Life%20is%20a%20collection%20of%20stories;%20make%20yours%20worth%20telling.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auhona-basu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/auhona_03)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:auhonabasu03@gmail.com)
 
-## 😉 Happy Coding!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auhonab/auhonab/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auhonab/auhonab/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/auhonab/auhonab/output/github-snake.svg" />
 </picture>
 
----
+<i>"Until death, all defeat is psychological."</i>
+
+</div>
